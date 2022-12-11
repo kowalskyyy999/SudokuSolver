@@ -3,12 +3,12 @@ Simple algorithm for solve sudoku board game. [Sudoku](https://play.google.com/s
 
 
 ## Overview
-![game view](https://github.com/kowalskyyy999/SudokuSolver/issues/1#issue-1489508890)
+![game view](https://user-images.githubusercontent.com/51861035/206888904-6eceaf28-0a0e-444e-9b99-dc8faa610c64.jpeg)
 
 ## How to use
 `python3 solver.py -f sample/sudoku-board-9x9-easy-1.txt`
 
 ## Result
-![Result](https://github.com/kowalskyyy999/SudokuSolver/issues/2#issue-1489513332)
+![Result](https://user-images.githubusercontent.com/51861035/206889056-d7792d3c-0f6e-48ee-b5da-3424f1def332.jpeg)
 
-![ResultOnGame](https://github.com/kowalskyyy999/SudokuSolver/issues/3#issue-1489515410)
+![ResultOnGame](https://user-images.githubusercontent.com/51861035/206889132-643d71b9-9e07-421d-bab9-6a0a40cceaef.jpeg)
